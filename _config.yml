@@ -5,7 +5,7 @@ url: https://gravitykarma.github.io
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "https://gravitykarma.github.io/"
+baseurl: "https://gravitykarma.github.io"
 
 
 sass:
